@@ -1,12 +1,12 @@
 {
-    "name": "crater-invoice/modules",
-    "description": "Crater Module Management Package",
+    "name": "tds-invoice/modules",
+    "description": "Tds Module Management Package",
     "keywords": [
         "modules",
         "laravel",
         "module",
         "rad",
-        "crater"
+        "tds"
     ],
     "license": "MIT",
     "require": {
